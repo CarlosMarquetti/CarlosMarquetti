@@ -37,5 +37,8 @@
   <a href="mailto:carlos.marquetti312@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&color=red&logoColor=white"/>
   </a>
+  
+    
+  ![Snake animation](https://github.com/CarlosMarquetti/CarlosMarquetti/blob/output/github-contribution-grid-snake.svg)
 </div>
-![Snake animation](https://github.com/CarlosMarquetti/CarlosMarquetti/blob/output/github-contribution-grid-snake.svg)
+
