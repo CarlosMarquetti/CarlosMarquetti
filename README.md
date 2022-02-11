@@ -24,7 +24,7 @@
           <td>Aprender</td>
           <td><img align="center" alt="Carlos-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></td>
           <td><img align="center" alt="Carlos-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" /></td>
-          <td><img align="center" alt="Carlos-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></td>
+          <td><img align="center" alt="Carlos-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></td>
           <td><img align="center" alt="Carlos-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></td>
         </tr>
     </table><br/>
