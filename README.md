@@ -1,7 +1,4 @@
 <h1 align="center">Apresentação</h1>
-<p>Garoto de programa com foco em <em>Front-end</em>, criei esse Github com intuito de divulgar meu progresso como desenvolvedor, e deixar registrado o passo a passo da minha carreira</p>
-
-<br>
 
 <div align="center"> 
     <a href="https://github.com/CarlosMarquetti">
@@ -45,6 +42,9 @@
     <a href="malto:carlos.marquetti312@hotmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white /">
     </a>
+     <a href="malto" target="_blank">
+       <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+     </a>
 </div>
 
 ![snake gif](https://github.com/CarlosMarquetti/CArlosMarquetti/blob/output/github-contribution-grid-snake.svg)
