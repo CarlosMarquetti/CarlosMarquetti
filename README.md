@@ -40,12 +40,12 @@
     <a href="mailto:carlos.marquetti312@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&color=red&logoColor=white"/>
     </a>
-    <a href="malto:carlos.marquetti312@hotmail.com" target="_blank">
+    <a href="mailto:carlos.marquetti312@hotmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white /">
     </a>
-     <a href="malto" target="_blank">
+<!--      <a href="mailto" target="_blank">
        <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-     </a>
+     </a> -->
 </div>
 
 ![snake gif](https://github.com/CarlosMarquetti/CArlosMarquetti/blob/output/github-contribution-grid-snake.svg)
